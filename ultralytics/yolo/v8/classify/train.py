@@ -1,4 +1,5 @@
 # Ultralytics YOLO 🚀, GPL-3.0 license
+# custom YoloV8 classification to load data from CSV
 
 import hydra
 import torch
